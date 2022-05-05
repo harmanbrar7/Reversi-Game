@@ -1,6 +1,6 @@
-//Assignment 2: FlipFlop
-//CMPT 129 March 21/2021
-//Harman Brar (301293707)
+//FlipFlop (Reversi)
+//March 21/2021
+//Harman Brar
 
 #include <iostream>
 #include <fstream>
