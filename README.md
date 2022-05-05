@@ -1,6 +1,7 @@
 # Reversi-Game
 C++ Reversi Game Simulation
 
+General Overview (most info is commented in actual code)
 
 The Game of FlipFlop is a strategy oriented board game with the following rules:
 1. The game begins on a board of N squares by N squares. N must be at least 8 and N must be even,
