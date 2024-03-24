@@ -1,6 +1,8 @@
 # Reversi-Game
 C++ Reversi Game Simulation
 
+# Introduction & Rules
+
 General Overview (most info is commented in actual code)
 
 The Game of FlipFlop is a strategy oriented board game with the following rules:
@@ -11,6 +13,8 @@ One player uses white game pieces; the other player uses black game pieces.
 4. The game ends when of the conditions below is true
 a.The black player has taken N^2/2 turns
 b.When a player plays 0 game pieces and their opponent then also plays 0 game pieces
+
+# Info
 
 
 White and Black are both trying to capture as many spaces as possible. Capturing 2 or more opposite color spaces results in a second turn if the user chooses to do so. 
